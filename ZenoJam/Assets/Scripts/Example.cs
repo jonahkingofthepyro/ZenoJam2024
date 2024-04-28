@@ -21,5 +21,5 @@ public class Example : MonoBehaviour
 
         
     // to listen to an event
-    // need to add a listener to a srcipt
+    // need to add a listener to a object
 }

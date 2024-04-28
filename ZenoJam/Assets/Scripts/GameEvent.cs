@@ -11,6 +11,7 @@ public class GameEvents : ScriptableObject
         for (int i = 0; i < listeners.Count; i++)
         {
            listeners[i].OnEventRaised(sender,data);
+           
         }
 
     }
